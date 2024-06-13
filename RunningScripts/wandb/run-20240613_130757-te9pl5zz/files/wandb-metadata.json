@@ -1,0 +1,45 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.8.19",
+    "heartbeatAt": "2024-06-13T10:07:59.645349",
+    "startedAt": "2024-06-13T10:07:57.728216",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "C:/Users/My/HumanChoicePrediction/RunningScripts/final_sweep_YOUR_UID.py",
+    "codePathLocal": "final_sweep_YOUR_UID.py",
+    "codePath": "RunningScripts\\final_sweep_YOUR_UID.py",
+    "git": {
+        "remote": "https://github.com/eilamshapira/HumanChoicePrediction",
+        "commit": "a734ea39a19422efe3c9e829bf520626a7057dd1"
+    },
+    "email": "somethingstam",
+    "root": "C:/Users/My/HumanChoicePrediction",
+    "host": "DESKTOP-38PS5PL",
+    "username": "My",
+    "executable": "C:\\Users\\My\\anaconda3\\envs\\final_project_env\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 1400.0,
+        "min": 0.0,
+        "max": 1800.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1400.0,
+            "min": 0.0,
+            "max": 1800.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 222.19906997680664,
+            "used": 177.09937286376953
+        }
+    },
+    "memory": {
+        "total": 7.893756866455078
+    }
+}

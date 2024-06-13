@@ -1,0 +1,4 @@
+Create sweep with ID: 21s5pfi3
+Sweep URL: https://wandb.ai/alimasslha/NLP2024_PROJECT_AliMassalha/sweeps/21s5pfi3
+run this line to run your agent in a screen:
+screen -dmS "sweep_agent" wandb agent ali-massalha209/NLP2024_PROJECT_AliMassalha/21s5pfi3
