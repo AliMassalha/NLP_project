@@ -18,9 +18,9 @@ sweep_config = {
     "parameters": {
         "ENV_HPT_mode": {"values": [False]},
         "architecture": {"values": ["LSTM"]},
-        "seed": {"values": list(range(1, 6))},
-        "online_simulation_factor": {"values": [0, 4]},
-        "features": {"values": ["EFs", "GPT4", "BERT"]},
+        "seed": {"values": [3]},
+        "online_simulation_factor": {"values": [4]},
+        "features": {"values": ["EFs"]},
         "basic_nature": {"values": [18, 19, 20, 21]},
     },
     "command": command,
